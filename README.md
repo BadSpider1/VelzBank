@@ -4,6 +4,9 @@ Vytvoř systém, který po spuštění nabídne uživateli výběr příkazu:
 
 ```create, login, send, give, list, balance, logout```
 
+## Varování !
+- Ukázka nemusí odpovídat nejlepšímu možnému řešení
+
 ## Popis příkazů:
 
 ### `create`
